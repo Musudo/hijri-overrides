@@ -1,5 +1,13 @@
 {
   "version": 1,
   "updated": "2026-06-10",
-  "overrides": []
+  "overrides": [
+    {
+      "eventId": "islamic_new_year",
+      "hijriYear": 1448,
+      "gregorianDate": "2026-06-18",
+      "source": "Test override",
+      "note": "Testing the override pipeline"
+    }
+  ]
 }
